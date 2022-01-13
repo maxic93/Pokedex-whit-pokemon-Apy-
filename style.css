@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #333;
+}
+
+#input {
+    margin-bottom: 4px;
+    border-radius: 3px;
+    background-color: #E8FFF5;
+}
+
+.card-body{
+    
+    color: #fff;
+}
+
